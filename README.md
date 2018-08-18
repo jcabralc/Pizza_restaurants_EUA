@@ -9,6 +9,6 @@ Python script
 
 [Kaggle Dataset](https://www.kaggle.com/datafiniti/pizza-restaurants-and-the-pizza-they-sell)
 
-[Blog Post] (https://jcabralc.wordpress.com/2017/11/19/pizza/)
+[Blog Post](https://jcabralc.wordpress.com/2017/11/19/pizza/)
 
 :)
